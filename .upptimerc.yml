@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Home
-    url: $HOME_ADDRESS
+    url: https://$URL
   #- name: Status Website
   #  url: $STATUS_ADDRESS
 
