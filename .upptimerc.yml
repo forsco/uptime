@@ -5,7 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: Network
     check: "tcp-ping"
-    $url: $NETWORK
+    $url: https://$NETWORK
+    port: 80
   - name: Home
     url: https://$URL
   #- name: Status Website
