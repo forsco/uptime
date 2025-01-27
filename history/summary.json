@@ -4,8 +4,8 @@
     "url": "https://$URL",
     "icon": "https://icons.duckduckgo.com/ip3/$url.ico",
     "slug": "home",
-    "status": "up",
-    "uptime": "98.68%",
+    "status": "down",
+    "uptime": "98.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1056,
     "timeYear": 856,
     "dailyMinutesDown": {
+      "2025-01-27": 0,
       "2024-11-28": 19,
       "2024-10-03": 931,
       "2024-10-02": 1440,
