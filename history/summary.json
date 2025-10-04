@@ -4,7 +4,7 @@
     "url": "https://$URL",
     "icon": "https://icons.duckduckgo.com/ip3/$url.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
