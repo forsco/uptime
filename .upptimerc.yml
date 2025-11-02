@@ -5,6 +5,7 @@ repo: uptime # The name of this repository
 sites:
   - name: Home
     url: https://$URL
+    location: australia
   #- name: Status Website
   #  url: $STATUS_ADDRESS
 
