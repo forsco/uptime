@@ -4,20 +4,19 @@
     "url": "https://$URL",
     "icon": "https://icons.duckduckgo.com/ip3/$url.ico",
     "slug": "home",
-    "status": "up",
-    "uptime": "98.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.12%",
-    "time": 846,
-    "timeDay": 1285,
-    "timeWeek": 973,
-    "timeMonth": 992,
-    "timeYear": 863,
+    "status": "down",
+    "uptime": "98.60%",
+    "uptimeDay": "78.35%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "98.06%",
+    "time": 844,
+    "timeDay": 271,
+    "timeWeek": 761,
+    "timeMonth": 951,
+    "timeYear": 860,
     "dailyMinutesDown": {
       "2025-06-23": 452,
-      "2025-06-22": 125,
       "2025-07-29": 33,
       "2025-10-04": 425,
       "2025-10-05": 41,
@@ -30,7 +29,9 @@
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
-      "2026-01-31": 1230
+      "2026-01-31": 1230,
+      "2026-06-22": 306,
+      "2026-06-21": 6
     }
   }
 ]
